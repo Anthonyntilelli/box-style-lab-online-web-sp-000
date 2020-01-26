@@ -13,7 +13,7 @@ body, html {
 }
 
 .indifferent.gradiant {
-  background: linear-gradient(#dddd22, #bdbd0b);
+  background: linear-gradient(-.25turn, #dddd22, #bdbd0b);
 }
 
 .dubious.gradiant {
