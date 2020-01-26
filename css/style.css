@@ -9,7 +9,7 @@ body, html {
 }
 
 .amiable.gradiant {
-  background: linear-gradient(#44cc66, darkgreen);
+  background: linear-gradient(#44cc66, #22aa44);
 }
 
 .indifferent.gradiant {
