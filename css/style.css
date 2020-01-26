@@ -9,15 +9,15 @@ body, html {
 }
 
 .amiable.gradiant {
-  background: linear-gradient(#44cc66, #22aa44);
+  background: linear-gradient(-.35turn, #44cc66, #22aa44);
 }
 
 .indifferent.gradiant {
-  background: linear-gradient(-.25turn, #dddd22, #bdbd0b);
+  background: linear-gradient(-.35turn, #dddd22, #bdbd0b);
 }
 
 .dubious.gradiant {
-  background: linear-gradient(-.25turn, #dd4444, #bd2e2e);
+  background: linear-gradient(-.35turn, #dd4444, #bd2e2e);
 }
 
 
