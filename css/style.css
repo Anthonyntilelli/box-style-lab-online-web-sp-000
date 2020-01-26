@@ -8,6 +8,10 @@ body, html {
    background: url("../images/white-wood.jpg") fixed no-repeat;
 }
 
+.gradiant {
+  
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
