@@ -17,7 +17,7 @@ body, html {
 }
 
 .dubious.gradiant {
-  background: linear-gradient(.25turn, #dd4444, #bd2e2e);
+  background: linear-gradient(-.25turn, #dd4444, #bd2e2e);
 }
 
 
