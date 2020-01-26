@@ -9,7 +9,7 @@ body, html {
 }
 
 .gradiant {
-  
+  background: linear-gradient(#e66465, #9198e5);
 }
 
 .container, h1 {
